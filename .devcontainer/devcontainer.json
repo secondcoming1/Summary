@@ -9,7 +9,9 @@
 			"extensions": [
 				"GitHub.copilot",
 				"GitHub.copilot-labs",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"ms-python.python",
+				"ms-python.debugpy"
 			]
 		}
 	}
